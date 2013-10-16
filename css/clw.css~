@@ -1,0 +1,5 @@
+.step {
+    width: 1024px;
+    height: 768;
+}
+
