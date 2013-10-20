@@ -414,13 +414,21 @@ Wii presenter tool
 :data-y: r0
 
 .. image:: images/persistence_04.jpg
-    :width: 800px
-    :height: 600px
+    :width: 1024px
+    :height: 675px
+
+Questions ?
+-----------
 
 ----
 
 :id: links
 
+:data-x: r1600
+:data-y: r0
+
+Links
+-----
   - fedora https://fedoraproject.org/
   - centos https://www.centos.org/
   - postgresql http://www.postgresql.org/
@@ -435,4 +443,5 @@ Wii presenter tool
   - tryton http://www.tryton.org/
   - ansible http://www.ansibleworks.com/
   - owncloud http://owncloud.org/
+
 
