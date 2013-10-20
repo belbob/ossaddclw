@@ -380,7 +380,7 @@ Evolutie en Continuïteit
 .. note::
 
  - Owncloud
-  
+
 ----
 
 :id: presentation
@@ -417,5 +417,22 @@ Wii presenter tool
     :width: 800px
     :height: 600px
 
+----
 
+:id: links
+
+  - fedora https://fedoraproject.org/
+  - centos https://www.centos.org/
+  - postgresql http://www.postgresql.org/
+  - mariadb https://mariadb.org/
+  - zabbix http://www.zabbix.com/
+  - ocs http://www.ocsinventory-ng.org/en/
+  - glpi http://www.glpi-project.org/spip.php?lang=en
+  - kvm http://www.linux-kvm.org/page/Main_Page
+  - wrt https://openwrt.org/
+  - vyatta http://www.vyatta.com/
+  - clearos http://www.clearfoundation.com/
+  - tryton http://www.tryton.org/
+  - ansible http://www.ansibleworks.com/
+  - owncloud http://owncloud.org/
 
