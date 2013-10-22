@@ -394,7 +394,7 @@ Wii presenter tool
 
   - wiipresent http://dag.wieers.com/home-made/wiipresent/
 
-Copy this presentation
+Fork this presentation
 ----------------------
 
   - github https://github.com/belbob/ossaddclw/
