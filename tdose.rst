@@ -381,7 +381,7 @@
 :data-x: r1600
 :data-y: r0
 
-used software for this presentation
+Used software for this presentation
 -----------------------------------
 
   - python hovercraft https://pypi.python.org/pypi/hovercraft/
@@ -393,6 +393,11 @@ Wii presenter tool
 ------------------
 
   - wiipresent http://dag.wieers.com/home-made/wiipresent/
+
+Copy this presentation
+----------------------
+
+  - github https://github.com/belbob/ossaddclw/
 
 .. image:: images/white.png
     :width: 1024px
