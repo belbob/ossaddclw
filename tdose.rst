@@ -13,8 +13,8 @@
 :data-scale: 1
 
 .. figure:: images/title_page.png
-    :width: 1024px
-    :height: 600px
+    :width: 400px
+    :height: 150px
 
 .. note::
     
@@ -38,6 +38,7 @@
 
 :data-x: r1600
 :data-y: r0
+:data-scale: 1
 
 .. image:: images/platforms.png
 
@@ -100,15 +101,10 @@
 :data-x: r1600
 :data-y: r0
 
-**Open Source**
-
-*and*
-
-**Security**
 
 .. image:: images/security_db.png
-    :width: 600px
-    :height: 450px
+    :width: 800px
+    :height: 600px
 
 .. note::
 
@@ -126,10 +122,7 @@
 
 .. image:: images/timeline_overview.png
     :width: 1024px
-    :height: 650px
-
-Evolutie en Continuïteit 
-........................
+    :height: 750px
 
 .. note::
 
@@ -244,15 +237,15 @@ Evolutie en Continuïteit
 
 .. image:: images/openwrt.png
     :width: 1024px
-    :height: 300px
+    :height: 425px
 
 .. image:: images/white.png
     :width: 1024px
-    :height: 100px
+    :height: 50px
 
 .. image:: images/timeline_wrt.png
     :width: 1024px
-    :height: 100px
+    :height: 125px
 
 .. note::
 
@@ -292,7 +285,7 @@ Evolutie en Continuïteit
 
 .. image:: images/clearos_features.png
     :width: 1024px
-    :height: 500px
+    :height: 525px
 
 .. image:: images/white.png
     :width: 1024px
@@ -300,7 +293,7 @@ Evolutie en Continuïteit
 
 .. image:: images/timeline_clearos.png
     :width: 1024px
-    :height: 225px
+    :height: 200px
 
 .. note::
 
@@ -340,7 +333,7 @@ Evolutie en Continuïteit
 :data-x: r1600
 :data-y: r0
 
-.. image:: images/ansible_full.png
+.. image:: images/ansible_view.png
     :width: 1024px
     :height: 500px
 
@@ -384,6 +377,9 @@ Evolutie en Continuïteit
 ----
 
 :id: presentation
+
+:data-x: r1600
+:data-y: r0
 
 used software for this presentation
 -----------------------------------
